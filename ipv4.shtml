@@ -1,0 +1,3 @@
+<html>
+	<!--#echo var="REMOTE_ADDR"-->
+</html>
